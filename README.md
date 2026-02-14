@@ -1,15 +1,15 @@
 # Hi there, I'm Wilker Pacheco! 👋
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXp6bm96bm96bm96bm96bm96bm96bm96bm96bm96JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPWH7Lgt71Sg/giphy.gif" width="300">
+  <img src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif" width="300">
 </p>
 
-> been dreaming of this since a child.
+> been dreaming of this since a child.✨
 
 ### 🚀 About Me
 - 🎓 **Systems & Software Engineering Student** with a strong focus on **Frontend Development**.
 - 🏗️ Currently working on **Project SIPLAC** for the *Fundación Universitaria Colombo Internacional*.
-- ☁️ Currently expanding my horizons with **AWS** and **Cloudflare**.
+- ☁️ Currently expanding my horizons with **AWS**, **Cloudflare** and **Network Infrastructure**.
 - 🎮 Passionate about video games and exploring the world ✈️.
 
 ---
@@ -31,7 +31,14 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-**Tools & DevOps**
+**Databases & Backend as a Service**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Tools, DevOps & Infrastructure**
+![Infrastructure](https://img.shields.io/badge/-Network_Infrastructure-orange?style=flat&logo=cisco&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
@@ -42,13 +49,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wilker436&theme=dracula&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wilker436&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wilker436&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilker436&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
 ---
 
 ### 📫 Connect with me
@@ -60,4 +68,3 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
